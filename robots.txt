@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--aladdinnet-bg2p580rg28h.com/sitemap.xml
